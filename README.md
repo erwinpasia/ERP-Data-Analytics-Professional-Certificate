@@ -1,5 +1,4 @@
 # Google-Data-Analytics-Professional-Certificate
-Google Data Analytics Professional Certificate - Notes
 
 This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for a Data Analyst job.
 
