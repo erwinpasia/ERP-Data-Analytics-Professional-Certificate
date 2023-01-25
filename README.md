@@ -1,6 +1,6 @@
-p style="text-align:center">
+<p style="text-align:center">
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/8QDS7UQTT964" target="_blank">
-    <img src="https://github.com/erwinpasia/Google-Data-Analytics-Professional-Certificate/blob/main/images/GDA_PC.png" width="500" alt="Google Data Analytics Professional Certificate"  />
+    <img src="https://github.com/erwinpasia/Google-Data-Analytics-Professional-Certificate/blob/main/images/GDA_PC.png" alt="Google Data Analytics Professional Certificate"  />
     </a>
 </p>
 
