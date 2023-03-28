@@ -1,4 +1,5 @@
-# Google Data Analytics Professional Certificate - COMPLETED. Finally, a Trained and Certified Data Analyst!
+# Google Data Analytics Professional Certificate - COMPLETED. 
+## Finally, a Trained and Certified Data Analyst!
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/verify/professional-cert/8QDS7UQTT964" target="_blank">
