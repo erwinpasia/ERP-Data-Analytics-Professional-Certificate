@@ -1,4 +1,4 @@
-# [Google Data Analytics - Professional Certificate](https://www.coursera.org/verify/professional-cert/8QDS7UQTT964) COMPLETED! 
+# [Google Data Analytics Professional Certificate](https://www.coursera.org/verify/professional-cert/8QDS7UQTT964) - COMPLETED! 
 ## Now, a [Trained and Certified Data Analyst!](https://www.coursera.org/verify/professional-cert/8QDS7UQTT964)
 
 <p style="text-align:center">
