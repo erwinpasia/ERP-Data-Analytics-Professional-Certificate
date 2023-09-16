@@ -1,9 +1,15 @@
-# [Google Data Analytics Professional Certificate](https://www.coursera.org/verify/professional-cert/8QDS7UQTT964) - COMPLETED! 
-## Now, a [Trained and Certified Data Analyst!](https://www.coursera.org/verify/professional-cert/8QDS7UQTT964)
+# [Google Data Analytics Professional Certificate](https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071) - COMPLETED! 
+## Now, a [Trained and Certified Data Analyst!](https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071)
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/verify/professional-cert/8QDS7UQTT964" target="_blank">
     <img src="https://github.com/erwinpasia/Google-Data-Analytics-Professional-Certificate/blob/main/images/GDA_PC.png" alt="Google Data Analytics Professional Certificate"  />
+    </a>
+</p>
+
+<p style="text-align:center">
+    <a href="https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071" target="_blank">
+    <img src="https://github.com/erwinpasia/ERP-Data-Analytics-Professional-Certificate/blob/main/images/Google_GDAC_PC_Badge.png" alt="Google Data Analytics Professional Certificate"  />
     </a>
 </p>
 
