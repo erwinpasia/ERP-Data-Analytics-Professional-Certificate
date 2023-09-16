@@ -2,7 +2,7 @@
 ## Now, a [Trained and Certified Data Analyst!](https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071)
 
 <p style="text-align:center">
-    <a href="https://www.coursera.org/verify/professional-cert/8QDS7UQTT964" target="_blank">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8QDS7UQTT964" target="_blank">
     <img src="https://github.com/erwinpasia/Google-Data-Analytics-Professional-Certificate/blob/main/images/GDA_PC.png" alt="Google Data Analytics Professional Certificate"  />
     </a>
 </p>
